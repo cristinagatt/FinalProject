@@ -51,7 +51,7 @@
         }
 
         #endregion
-
+        //aw nillu
         private System.Windows.Forms.Panel panel1;
     }
 }
