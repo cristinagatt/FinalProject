@@ -143,7 +143,7 @@ namespace Collaborative_Proj
             string python = @"C:\Users\matth\PycharmProjects\untitled\venv\Scripts\python.exe";
 
             // python app to call 
-            string myPythonApp = "cristina.py";
+            string myPythonApp = "script.py";
 
 
 
